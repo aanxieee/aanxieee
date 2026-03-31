@@ -17,7 +17,7 @@ Currently finishing my B.Tech in CS (AI & ML) from Manipal University Jaipur (CG
 - **Co-invented a patented architecture**- Hybrid Attention CNN-Bi-GRU-Bi-LSTM for Speech Emotion Recognition achieving **97% accuracy**
 - **3 published papers**- IEEE ICAET (FOD Detection), ICIIF (Crack Detection), CVR (Coral Reef Classification)
 - **DRDO/DIAT Pune Research Intern**- Trained YOLOv5/v8/v9 on **46,500 images** for runway health monitoring, improving detection from 65% → 89%
-- **Delivered a 5-day AI Training Programme** for Indian Army officers in an air-gapped LAN environment- from AI fundamentals through agentic AI and autonomous systems
+- **Delivered a AI Training Programs**  
 
 ### 🤖 Multi-Agent & GenAI Systems
 - **Zordie AI**- Built a multi-agent HRMS: Monica (voice calling agent), Onix (resume screener processing 25K+ resumes), Vika (technical interviewer on Llama 3.1/4 8B, 67%→78% accuracy). FastAPI + Django + Docker, 1,000+ active users in production
